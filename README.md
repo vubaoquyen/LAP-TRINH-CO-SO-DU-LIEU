@@ -23,3 +23,12 @@ A Windows Forms application for managing a pet shop, built with C# and SQL Serve
 
 ## License
 This project is for educational purposes only.
+
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/78312bc5-81f7-408d-bcff-40fc87cb4260" />
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/1d5a9a05-1cfc-4e49-85d4-39880e09c609" />
+<img width="1919" height="1126" alt="image" src="https://github.com/user-attachments/assets/c50f6b08-57a0-406d-9003-8d36f3a843a7" />
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/cdbe1134-febb-4138-8bf8-0560303183f7" />
+
+
+
+
