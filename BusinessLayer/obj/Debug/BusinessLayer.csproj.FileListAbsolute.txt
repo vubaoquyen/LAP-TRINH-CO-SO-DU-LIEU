@@ -1,0 +1,69 @@
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\BusinessLayer\bin\Debug\DataLayer.dll
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\BusinessLayer\bin\Debug\TransferObject.dll
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\BusinessLayer\bin\Debug\TransferObject.pdb
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\bin\Debug\BusinessLayer.dll
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\bin\Debug\BusinessLayer.pdb
+D:\PetShopManagementSystem\bin\Debug\BusinessLayer.dll
+D:\PetShopManagementSystem\bin\Debug\BusinessLayer.pdb
+D:\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\PetShopManagementSystem\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\vubao\Downloads\PetShopManagementSystem\bin\Debug\BusinessLayer.dll
+C:\Users\vubao\Downloads\PetShopManagementSystem\bin\Debug\BusinessLayer.pdb
+C:\Users\vubao\Downloads\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\vubao\Downloads\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\vubao\Downloads\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\BusinessLayer.dll
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\BusinessLayer.pdb
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\BusinessLayer.dll
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\BusinessLayer.pdb
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\BusinessLayer.dll
+D:\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\BusinessLayer.pdb
+D:\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\Code\C#\PetShopManagementSystem\bin\Debug\BusinessLayer.dll
+F:\Code\C#\PetShopManagementSystem\bin\Debug\BusinessLayer.pdb
+F:\Code\C#\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+F:\Code\C#\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\Code\C#\PetShopManagementSystem\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+F:\Code\C#\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\Code\C#\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\BusinessLayer.dll
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\BusinessLayer.pdb
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\bin\Debug\BusinessLayer.dll
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\bin\Debug\BusinessLayer.pdb
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb

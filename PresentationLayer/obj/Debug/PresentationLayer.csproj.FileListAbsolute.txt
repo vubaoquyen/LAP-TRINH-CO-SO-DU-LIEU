@@ -1,0 +1,230 @@
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\bin\Debug\PresentationLayer.exe
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\bin\Debug\PresentationLayer.pdb
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\bin\Debug\BusinessLayer.dll
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\bin\Debug\TransferObject.dll
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\bin\Debug\BusinessLayer.pdb
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\bin\Debug\TransferObject.pdb
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.exe
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.pdb
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\bin\Debug\PresentationLayer.exe.config
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\bin\Debug\PresentationLayer.exe
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\bin\Debug\PresentationLayer.pdb
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.LoginForm.resources
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.MainForm.resources
+D:\LAP TRINH GIAO DIEN\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.SplashForm.resources
+D:\PetShopManagementSystem\bin\Debug\PresentationLayer.exe.config
+D:\PetShopManagementSystem\bin\Debug\PresentationLayer.exe
+D:\PetShopManagementSystem\bin\Debug\PresentationLayer.pdb
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.LoginForm.resources
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.MainForm.resources
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.SplashForm.resources
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.exe
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.pdb
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.UserForm.resources
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.UserModule.resources
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CustomerForm.resources
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CustomerModule.resources
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ProductForm.resources
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ProductModule.resources
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashCustomer.resources
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashForm.resources
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashProduct.resources
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Dashboard.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\bin\Debug\PresentationLayer.exe.config
+C:\Users\vubao\Downloads\PetShopManagementSystem\bin\Debug\PresentationLayer.exe
+C:\Users\vubao\Downloads\PetShopManagementSystem\bin\Debug\PresentationLayer.pdb
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashCustomer.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashProduct.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CustomerForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CustomerModule.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Dashboard.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.LoginForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.MainForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ProductForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ProductModule.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.SplashForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.UserForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.UserModule.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoicePrintForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\PresentationLayer.exe.config
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\PresentationLayer.exe
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\PresentationLayer.pdb
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashCustomer.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashProduct.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CustomerForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CustomerModule.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Dashboard.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoicePrintForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.LoginForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.MainForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ProductForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ProductModule.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.SplashForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.UserForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.UserModule.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\PresentationLayer.exe.config
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\PresentationLayer.exe
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\PresentationLayer.pdb
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashCustomer.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashForm.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashProduct.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CustomerForm.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CustomerModule.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Dashboard.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoicePrintForm.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.LoginForm.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.MainForm.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ProductForm.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ProductModule.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ReportForm.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.SplashForm.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.UserForm.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.UserModule.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ReportForm.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\PresentationLayer.exe.config
+D:\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\PresentationLayer.exe
+D:\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\PresentationLayer.pdb
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashCustomer.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashForm.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashProduct.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CustomerForm.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CustomerModule.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Dashboard.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoicePrintForm.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.LoginForm.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.MainForm.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ProductForm.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ProductModule.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ReportForm.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.SplashForm.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.UserForm.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.UserModule.resources
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.exe
+D:\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.pdb
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoicePrintForm.resources
+D:\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ReportForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ReportForm.resources
+F:\Code\C#\PetShopManagementSystem\bin\Debug\PresentationLayer.exe.config
+F:\Code\C#\PetShopManagementSystem\bin\Debug\PresentationLayer.exe
+F:\Code\C#\PetShopManagementSystem\bin\Debug\PresentationLayer.pdb
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashCustomer.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashForm.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashProduct.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CustomerForm.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CustomerModule.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Dashboard.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoicePrintForm.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.LoginForm.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.MainForm.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ProductForm.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ProductModule.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ReportForm.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.SplashForm.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.UserForm.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.UserModule.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.exe
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.pdb
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoiceDetailForm.resources
+F:\Code\C#\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoiceForm.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoiceDetailForm.resources
+C:\Users\HP\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoiceForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\PresentationLayer.exe.config
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\PresentationLayer.exe
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\bin\Debug\PresentationLayer.pdb
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashCustomer.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashProduct.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CustomerForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CustomerModule.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Dashboard.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoiceDetailForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoiceForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoicePrintForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.LoginForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.MainForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ProductForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ProductModule.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ReportForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.SplashForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.UserForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.UserModule.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\bin\Debug\PresentationLayer.exe.config
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\bin\Debug\PresentationLayer.exe
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\bin\Debug\PresentationLayer.pdb
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashCustomer.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CashProduct.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CustomerForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.CustomerModule.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Dashboard.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoiceDetailForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoiceForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoicePrintForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.LoginForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.MainForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ProductForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ProductModule.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.ReportForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.SplashForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.UserForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.UserModule.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\vubao\Downloads\PetShopManagementSystem (final)\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoiceDetailForm.resources
+C:\Users\vubao\Downloads\PetShopManagementSystem\PetShopManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.InvoiceForm.resources

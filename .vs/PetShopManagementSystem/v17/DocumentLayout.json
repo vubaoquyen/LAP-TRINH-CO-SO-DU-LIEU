@@ -1,0 +1,902 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\invoiceprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\invoiceprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E76059D-3911-413C-971B-C626666B2321}|DataLayer\\DataLayer.csproj|c:\\users\\vubao\\downloads\\petshopmanagementsystem\\petshopmanagementsystem\\datalayer\\invoicedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E76059D-3911-413C-971B-C626666B2321}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\invoicedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA6557-F652-4AD0-A637-9E978FDA1FEB}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\businesslayer\\invoicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA6557-F652-4AD0-A637-9E978FDA1FEB}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\invoicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\invoiceprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\invoiceprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\invoicedetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\invoicedetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\invoicedetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\invoicedetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E76059D-3911-413C-971B-C626666B2321}|DataLayer\\DataLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\datalayer\\cashdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E76059D-3911-413C-971B-C626666B2321}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\cashdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E76059D-3911-413C-971B-C626666B2321}|DataLayer\\DataLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\datalayer\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E76059D-3911-413C-971B-C626666B2321}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA6557-F652-4AD0-A637-9E978FDA1FEB}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\businesslayer\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA6557-F652-4AD0-A637-9E978FDA1FEB}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\usermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\usermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52418978-AF79-4AB5-B2C7-F62E83A7AEAA}|TransferObject\\TransferObject.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\transferobject\\accountuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52418978-AF79-4AB5-B2C7-F62E83A7AEAA}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\accountuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\usermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\usermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA6557-F652-4AD0-A637-9E978FDA1FEB}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\businesslayer\\loginbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA6557-F652-4AD0-A637-9E978FDA1FEB}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\loginbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E76059D-3911-413C-971B-C626666B2321}|DataLayer\\DataLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\datalayer\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E76059D-3911-413C-971B-C626666B2321}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA6557-F652-4AD0-A637-9E978FDA1FEB}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\businesslayer\\dashboardbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA6557-F652-4AD0-A637-9E978FDA1FEB}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dashboardbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52418978-AF79-4AB5-B2C7-F62E83A7AEAA}|TransferObject\\TransferObject.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\transferobject\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52418978-AF79-4AB5-B2C7-F62E83A7AEAA}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E76059D-3911-413C-971B-C626666B2321}|DataLayer\\DataLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\datalayer\\dashboarddl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E76059D-3911-413C-971B-C626666B2321}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dashboarddl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E76059D-3911-413C-971B-C626666B2321}|DataLayer\\DataLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\datalayer\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E76059D-3911-413C-971B-C626666B2321}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\cashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\cashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA6557-F652-4AD0-A637-9E978FDA1FEB}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\businesslayer\\cashbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA6557-F652-4AD0-A637-9E978FDA1FEB}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\cashbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\cashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\cashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\productmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\productmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\customermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\customermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\cashproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\cashproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA6557-F652-4AD0-A637-9E978FDA1FEB}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\businesslayer\\customerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA6557-F652-4AD0-A637-9E978FDA1FEB}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\customerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E76059D-3911-413C-971B-C626666B2321}|DataLayer\\DataLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\datalayer\\customerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E76059D-3911-413C-971B-C626666B2321}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\customerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\splashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\splashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\customermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\customermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\cashproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\cashproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\productmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\productmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAA6557-F652-4AD0-A637-9E978FDA1FEB}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\businesslayer\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAA6557-F652-4AD0-A637-9E978FDA1FEB}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E76059D-3911-413C-971B-C626666B2321}|DataLayer\\DataLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\datalayer\\productdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E76059D-3911-413C-971B-C626666B2321}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\productdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52418978-AF79-4AB5-B2C7-F62E83A7AEAA}|TransferObject\\TransferObject.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\transferobject\\customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52418978-AF79-4AB5-B2C7-F62E83A7AEAA}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52418978-AF79-4AB5-B2C7-F62E83A7AEAA}|TransferObject\\TransferObject.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\transferobject\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52418978-AF79-4AB5-B2C7-F62E83A7AEAA}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52418978-AF79-4AB5-B2C7-F62E83A7AEAA}|TransferObject\\TransferObject.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\transferobject\\cashinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52418978-AF79-4AB5-B2C7-F62E83A7AEAA}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\cashinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\invoicedetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\invoicedetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\cashform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\cashform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\presentationlayer\\splashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{711F801F-0ED1-4223-A29A-7056A272548F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\splashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoicePrintForm.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\InvoicePrintForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\InvoicePrintForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\InvoicePrintForm.cs",
+              "RelativeToolTip": "PresentationLayer\\InvoicePrintForm.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAgwCsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:16:56.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceDL.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\DataLayer\\InvoiceDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\InvoiceDL.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\DataLayer\\InvoiceDL.cs",
+              "RelativeToolTip": "DataLayer\\InvoiceDL.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAkwIcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:19:02.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceBL.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\BusinessLayer\\InvoiceBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\InvoiceBL.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\BusinessLayer\\InvoiceBL.cs",
+              "RelativeToolTip": "BusinessLayer\\InvoiceBL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:55:45.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:14:03.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoicePrintForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\InvoicePrintForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\InvoicePrintForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\InvoicePrintForm.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\InvoicePrintForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:10:36.042Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\InvoiceForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\InvoiceForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\InvoiceForm.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\InvoiceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:25:15.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoiceDetailForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\InvoiceDetailForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\InvoiceDetailForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\InvoiceDetailForm.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\InvoiceDetailForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:24:05.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoiceForm.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\InvoiceForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\InvoiceForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\InvoiceForm.cs",
+              "RelativeToolTip": "PresentationLayer\\InvoiceForm.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwC4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:36:47.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoiceDetailForm.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\InvoiceDetailForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\InvoiceDetailForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\InvoiceDetailForm.cs",
+              "RelativeToolTip": "PresentationLayer\\InvoiceDetailForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:50:05.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CashDL.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\DataLayer\\CashDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\CashDL.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\DataLayer\\CashDL.cs",
+              "RelativeToolTip": "DataLayer\\CashDL.cs",
+              "ViewState": "AgIAAFIBAAAAAAAAAAAcwHYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:17:57.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\UserForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\UserForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\UserForm.cs",
+              "RelativeToolTip": "PresentationLayer\\UserForm.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwEsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T05:58:55.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountUser.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\TransferObject\\AccountUser.cs",
+              "RelativeDocumentMoniker": "TransferObject\\AccountUser.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\TransferObject\\AccountUser.cs",
+              "RelativeToolTip": "TransferObject\\AccountUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:33:18.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserModule.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\UserModule.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\UserModule.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\UserModule.cs",
+              "RelativeToolTip": "PresentationLayer\\UserModule.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAIwLoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:54:53.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserBL.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\BusinessLayer\\UserBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\UserBL.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\BusinessLayer\\UserBL.cs",
+              "RelativeToolTip": "BusinessLayer\\UserBL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:42:45.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\MainForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\MainForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\MainForm.cs",
+              "RelativeToolTip": "PresentationLayer\\MainForm.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAcwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:50:15.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDL.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\DataLayer\\UserDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\UserDL.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\DataLayer\\UserDL.cs",
+              "RelativeToolTip": "DataLayer\\UserDL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:42:52.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\UserForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\UserForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\UserForm.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T05:55:22.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserModule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\UserModule.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\UserModule.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\UserModule.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\UserModule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:00:22.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\LoginForm.cs",
+              "RelativeToolTip": "PresentationLayer\\LoginForm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:24:54.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginBL.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\BusinessLayer\\LoginBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\LoginBL.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\BusinessLayer\\LoginBL.cs",
+              "RelativeToolTip": "BusinessLayer\\LoginBL.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:25:42.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginDL.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\DataLayer\\LoginDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\LoginDL.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\DataLayer\\LoginDL.cs",
+              "RelativeToolTip": "DataLayer\\LoginDL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:20:34.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\Dashboard.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\Dashboard.cs",
+              "RelativeToolTip": "PresentationLayer\\Dashboard.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:49:30.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\LoginForm.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:40:58.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductInfo.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\TransferObject\\ProductInfo.cs",
+              "RelativeDocumentMoniker": "TransferObject\\ProductInfo.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\TransferObject\\ProductInfo.cs",
+              "RelativeToolTip": "TransferObject\\ProductInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:00:34.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DashboardBL.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\BusinessLayer\\DashboardBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\DashboardBL.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\BusinessLayer\\DashboardBL.cs",
+              "RelativeToolTip": "BusinessLayer\\DashboardBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:48:29.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DashboardDL.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\DataLayer\\DashboardDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DashboardDL.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\DataLayer\\DashboardDL.cs",
+              "RelativeToolTip": "DataLayer\\DashboardDL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:47:22.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\Dashboard.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\Dashboard.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:34:51.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DbConnect.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\DataLayer\\DbConnect.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DbConnect.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\DataLayer\\DbConnect.cs",
+              "RelativeToolTip": "DataLayer\\DbConnect.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:13:20.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\ReportForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\ReportForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\ReportForm.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\ReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:07:37.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CashForm.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CashForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\CashForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CashForm.cs",
+              "RelativeToolTip": "PresentationLayer\\CashForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:18:48.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\Program.cs",
+              "RelativeToolTip": "PresentationLayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:58:29.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CashBL.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\BusinessLayer\\CashBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\CashBL.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\BusinessLayer\\CashBL.cs",
+              "RelativeToolTip": "BusinessLayer\\CashBL.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv1AAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:52:12.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CashForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CashForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\CashForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CashForm.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\CashForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:31:55.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CashCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CashCustomer.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\CashCustomer.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CashCustomer.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\CashCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:27:20.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductModule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\ProductModule.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\ProductModule.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\ProductModule.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\ProductModule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:25:17.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\MainForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\MainForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\MainForm.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:17:51.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CustomerModule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CustomerModule.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\CustomerModule.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CustomerModule.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\CustomerModule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:14:21.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CashProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CashProduct.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\CashProduct.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CashProduct.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\CashProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:27:54.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CustomerForm.cs",
+              "RelativeToolTip": "PresentationLayer\\CustomerForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:44:30.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CustomerBL.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\BusinessLayer\\CustomerBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\CustomerBL.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\BusinessLayer\\CustomerBL.cs",
+              "RelativeToolTip": "BusinessLayer\\CustomerBL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:06:54.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomerDL.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\DataLayer\\CustomerDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\CustomerDL.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\DataLayer\\CustomerDL.cs",
+              "RelativeToolTip": "DataLayer\\CustomerDL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:58:41.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SplashForm.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\SplashForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\SplashForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\SplashForm.cs",
+              "RelativeToolTip": "PresentationLayer\\SplashForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wBkAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:51:05.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CustomerModule.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CustomerModule.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\CustomerModule.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CustomerModule.cs",
+              "RelativeToolTip": "PresentationLayer\\CustomerModule.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:49:01.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CashProduct.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CashProduct.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\CashProduct.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CashProduct.cs",
+              "RelativeToolTip": "PresentationLayer\\CashProduct.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:48:21.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CashCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CashCustomer.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\CashCustomer.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CashCustomer.cs",
+              "RelativeToolTip": "PresentationLayer\\CashCustomer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:45:44.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductModule.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\ProductModule.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\ProductModule.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\ProductModule.cs",
+              "RelativeToolTip": "PresentationLayer\\ProductModule.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAJ8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:37:10.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\ProductForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\ProductForm.cs",
+              "RelativeToolTip": "PresentationLayer\\ProductForm.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAwEwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:38:31.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ProductBL.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\BusinessLayer\\ProductBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\ProductBL.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\BusinessLayer\\ProductBL.cs",
+              "RelativeToolTip": "BusinessLayer\\ProductBL.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wCEAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:03:38.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProductDL.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\DataLayer\\ProductDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\ProductDL.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\DataLayer\\ProductDL.cs",
+              "RelativeToolTip": "DataLayer\\ProductDL.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwGIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:03:22.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\TransferObject\\Invoice.cs",
+              "RelativeDocumentMoniker": "TransferObject\\Invoice.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\TransferObject\\Invoice.cs",
+              "RelativeToolTip": "TransferObject\\Invoice.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:00:08.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CustomerInfo.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\TransferObject\\CustomerInfo.cs",
+              "RelativeDocumentMoniker": "TransferObject\\CustomerInfo.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\TransferObject\\CustomerInfo.cs",
+              "RelativeToolTip": "TransferObject\\CustomerInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:58:26.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CashInfo.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\TransferObject\\CashInfo.cs",
+              "RelativeDocumentMoniker": "TransferObject\\CashInfo.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\TransferObject\\CashInfo.cs",
+              "RelativeToolTip": "TransferObject\\CashInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:23:43.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProductForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\ProductForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\ProductForm.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\ProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:25:37.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "InvoiceDetailForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\InvoiceDetailForm.Designer.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\InvoiceDetailForm.Designer.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\InvoiceDetailForm.Designer.cs",
+              "RelativeToolTip": "PresentationLayer\\InvoiceDetailForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:22:36.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CashForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CashForm.Designer.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\CashForm.Designer.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\CashForm.Designer.cs",
+              "RelativeToolTip": "PresentationLayer\\CashForm.Designer.cs",
+              "ViewState": "AgIAAO8BAAAAAAAAAAAWwO8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:22:52.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SplashForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\SplashForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\SplashForm.cs",
+              "ToolTip": "C:\\Users\\vubao\\Downloads\\PetShopManagementSystem\\PetShopManagementSystem\\PresentationLayer\\SplashForm.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\SplashForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:46:45.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
